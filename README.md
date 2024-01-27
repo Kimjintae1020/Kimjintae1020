@@ -1,7 +1,7 @@
 
-- 🎓 College student
+- 🎓 College Student
 - 🌱 Learning Backend 
-- 💞️ My hobby is snowboard
+- 💞️ My hobby is  Snowboard
 - 📫 How to reach me ...
 
 
