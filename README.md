@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-</br>
 <h3 align=""><b> Interested in </b></h3>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
