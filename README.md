@@ -5,8 +5,11 @@
 - 💞️ My hobby is  Snowboard
 - 📫 How to reach me ...
 
+</br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjintae1020)](https://solved.ac/kimjintae1020/)
 
+<br>
 <h3 align=""><b> Tech Stack: </b></h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
