@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3 align="center"><b> Languages </b></h3>
+<h3 align=""><b> Languages </b></h3>
 </br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
