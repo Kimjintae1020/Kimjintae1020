@@ -7,7 +7,6 @@
 
 </br>
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjintae1020)](https://solved.ac/kimjintae1020/)
 
 <h3 align=""><b> Tech Stack: </b></h3>
