@@ -20,7 +20,7 @@
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=F80000)
 
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=#F80000)
+![spring](https://img.shields.io/badge/spring-#6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=#6DB33F)
 ![springboot](https://img.shields.io/badge/springboot-#6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=#6DB33F)
 
 <h3 align=""><b> Interested in </b></h3>
