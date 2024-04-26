@@ -22,7 +22,7 @@
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![springboot](https://img.shields.io/badge/springboot-#6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-#6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
 
 <h3 align=""><b> Interested in </b></h3>
