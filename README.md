@@ -1,6 +1,4 @@
 
-# 9월 안으로 프로필 정리하겠습니다...
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjintae1020)](https://solved.ac/kimjintae1020/)
 
 </br>
