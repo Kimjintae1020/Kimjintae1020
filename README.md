@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text= Hello World!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Hello%20%20World!)
 
 </br>
 <h3 align=""><b> Tech Stack: </b></h3>
