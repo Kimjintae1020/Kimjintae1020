@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Hello%20%20World!)
 
-<br>
-
-
 ### 📖Tech Stack
 
 <div>
@@ -15,8 +12,6 @@
 <br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
 </div>
-
-
 
 ### ✨Interested in
 
