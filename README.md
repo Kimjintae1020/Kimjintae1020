@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Hello%20%20World!)
+# Kim JinTae
 
 ### 📖Tech Stack
 
